@@ -1,2 +1,2 @@
-# moje_npg_3
+# npg_lukasz_kopcinski
 npg_3
